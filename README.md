@@ -1,0 +1,3 @@
+# HDU_digital_media_CG  
+存储了杭电数字媒体技术专业，完成的计算机图形学课设大作业  
+包括基于Games101的卡罗蒙特路径追踪的离线渲染和基于shadowmapping的在线渲染
